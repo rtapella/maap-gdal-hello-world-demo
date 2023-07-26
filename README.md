@@ -1,6 +1,6 @@
 # gdal-hello-world
 
-Test change for commit
+This is an update to the README
 
 ## Getting started
 
