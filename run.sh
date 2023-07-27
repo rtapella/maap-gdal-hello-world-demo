@@ -1,5 +1,7 @@
 #!/bin/bash
 
+source activate base
+
 INPUT_FILENAME=$(ls -d input/*)
 OUTPUT_FILENAME=$1
 REDUCTION_SIZE=$2
